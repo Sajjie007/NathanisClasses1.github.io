@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
+
+#menu-2 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-2.mbr-navbar--stuck .mbr-navbar__section {
+  background: #c1c1c1;
+}
+#menu-2 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-2 .mbr-brand__name a {
+  font-family: 'Droid Serif', serif;
+}
+#header4-1 H1 {
+  font-size: 46px;
+  color: #000000;
+}
+#header4-1 P {
+  font-size: 14px;
+  color: #000000;
+}
+#header4-1 B {
+  color: #000000;
+}
+#slider-3 H1 {
+  color: #efefef;
+}
+#slider-3 P {
+  color: #efefef;
+}
+#msg-box3-6 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-6 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}

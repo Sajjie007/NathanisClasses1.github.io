@@ -1,0 +1,376 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "3.3.1",
+    "versionPublish": "3.3.1",
+    "name": "#Nathanisclassestrial",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise"
+    },
+    "favicon": "",
+    "google-analytics": "",
+    "cookiesAlert": "We use cookies to give you the best experience. <a href='privacy.html'>cookie policy</a>.",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/Abbas/Documents"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Nathani's Classes",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#c1c1c1"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-2",
+          "_params": {
+            "color": "#c1c1c1",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": true,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/597651-medium190ap-124x128-80.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Nathani's Classes&nbsp;</a>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#social-buttons2-4\">&nbsp;FOLLOW US&nbsp;</a></li>    <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box3-6\" target=\"_blank\">ABOUT US</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-6\">CONTACT US</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "font-size": "46px",
+              "color": "#000000"
+            },
+            "P": {
+              "font-size": "14px",
+              "color": "#000000"
+            },
+            "B": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header4-1",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/classes-2000x1280-14.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "Developing Youth for the Future",
+          "text": "<b>We are one of the unique education service providers, rendering a wide range of services from coaching to training in the field of education, through dedicated efforts of professionals, devoted to ensuring success and growth of students.<br><br>Nathani's Classes conceived and founded a decade ago by the team of intellectuals and professionals has grown in its strength and popularity over years. Manned by a competent, committed and results oriented faculties the institution has produced many achievers who excelled in their respective subjects.<br><br>The focused objective of Nathani's Classes is to create the learning environment which will enable &amp; encourage every student to participate, learn &amp; develop skills which are necessary for the future world.<br><br>Nathani's Classes believes in competitive learning process, so our unique teaching pattern enables students to endeavor the competent aspect self training and development.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "slider",
+          "_styles": {
+            "H1": {
+              "color": "#efefef"
+            },
+            "P": {
+              "color": "#efefef"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slide-1-2000x1230-23.jpg",
+                "contentAlign": "right",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "showTitle": true,
+                "title": "Toppers Testimony",
+                "showText": true,
+                "text": "I am greatly indebted to Nathani’s Classes for giving coaching through qualified teachers, audio-visual aids, regular tests and completing the accounts portion twice.<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/slide-2-2000x1230-31.jpg",
+                "contentAlign": "left",
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "overlayColor": "#222222",
+                "showTitle": true,
+                "title": "Toppers Testimony",
+                "showText": true,
+                "text": "I have achieved unexpected marks only because of the personalised coaching given to me till the last day of my Board examinations.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slide-3-2000x1230-37.jpg",
+                "contentAlign": "right",
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "showTitle": true,
+                "title": "Toppers Testimony",
+                "showText": true,
+                "text": "One of the reason why I could achieve high percentage is due to the talented and highly qualified teacher at my classes.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slide-4-2000x1230-16.jpg",
+                "contentAlign": "left",
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "showTitle": true,
+                "title": "Toppers Testimony",
+                "showText": true,
+                "text": "Regular oral and written tests made me gain confidence to get distinction , Thanks to Nathani’s Classes for its holistic approach<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-3",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-6",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "ABOUT US",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "Nathani's Classes conceived and founded a decade ago by the team of intellectuals and professionals has grown in its strength and popularity over years. Manned by a competent, committed and results oriented faculties the institution has produced many achievers who excelled in their respective subjects.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-4",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#f0f0f0",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/NathanisClasses?s=08\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/profile.php?id=100008653998215\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\".https://plus.google.com/114171189001001641517\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-googleplus\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/nathanisclasses/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-7",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "counters": false,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!"
+        },
+        {
+          "_name": "form1",
+          "_anchor": "form1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "CONTACT FORM",
+          "form": {
+            "action": "sajjie007@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">CONTACT US</a>"
+        },
+        {
+          "_name": "contacts1",
+          "_anchor": "contacts1-6",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/597651-medium190ap-265x272-33.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>&nbsp;Shop-12-14,1st floor,Crystal Arcade,Mira Road, Naya Nagar, Mira Road East, Mira Bhayandar, Maharashtra 401107<br>",
+          "text2": "<b>Head Office</b><b><br>Email</b>:&nbsp; info@nathanisclasses.com<br><b>Contact No. +91 9221996512</b>&nbsp;<br>Bhayander branch:9967026512<br><span style=\"line-height: 1.7em;\">Dahisar branch:9221735499</span><br><span style=\"line-height: 1.7em;\">Mira Road branch:9221996512</span><br><span style=\"line-height: 1.7em;\">Santacruz branch:9224661343</span><br><span style=\"line-height: 1.7em;\">Vasai branch:9324947042</span><br><span style=\"line-height: 1.7em;\">Virar branch:8976201796</span><br>",
+          "text3": ""
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-7",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Nathani's Classes&nbsp;"
+        }
+      ]
+    }
+  }
+}
